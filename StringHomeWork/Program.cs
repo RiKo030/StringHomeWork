@@ -46,11 +46,25 @@ namespace StringHomeWork
 
             //-----------------------3-----------------
             Console.WriteLine("----------3----------");
-            string str1 = "Hello my dear friend";
-            string str2 = "my cat is a  good litle boy";
+            string str1 = "Hello  my dear friend";
+            string str2 = "my cat is a good litle boy";
             Console.WriteLine(str1);
             Console.WriteLine(str2);
-            
+            str1 = str1.Insert(6, str2);
+            Console.WriteLine(str1);
+
+            //----------------------4----------------
+            Console.WriteLine("----------4----------");
+            string[] s = str2.Split(' ');
+            Console.WriteLine(str2);
+            str2=str2.Remove(0);
+            for(int i = s.Length-1; i >= 0; i--) {
+                str2 += s[i]+" ";
+             }
+            Console.WriteLine(str2);
+
+            //---------------------5---------------
+            Console.WriteLine("----------5----------");
         }
     }
 }
