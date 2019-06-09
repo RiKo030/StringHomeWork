@@ -1,0 +1,7 @@
+C:\StringHomeWork\StringHomeWork\bin\Debug\StringHomeWork.exe.config
+C:\StringHomeWork\StringHomeWork\bin\Debug\StringHomeWork.exe
+C:\StringHomeWork\StringHomeWork\bin\Debug\StringHomeWork.pdb
+C:\StringHomeWork\StringHomeWork\obj\Debug\StringHomeWork.csprojAssemblyReference.cache
+C:\StringHomeWork\StringHomeWork\obj\Debug\StringHomeWork.csproj.CoreCompileInputs.cache
+C:\StringHomeWork\StringHomeWork\obj\Debug\StringHomeWork.exe
+C:\StringHomeWork\StringHomeWork\obj\Debug\StringHomeWork.pdb
